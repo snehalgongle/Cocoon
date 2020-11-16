@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cocoon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top_fragment">Top Stories</string>
+    <string name="bookmark_fragment">BookMark Fragment</string>
+    <string name="extra_main_url">MAIN_URL</string>
+</resources>
